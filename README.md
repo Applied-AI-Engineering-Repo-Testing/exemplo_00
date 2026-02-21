@@ -79,6 +79,9 @@ A label é gerada usando uma **função logística probabilística**.
 
 ## 📦 Instalação
 
+### 1️⃣ Setup
+Utilize Node v22 para que não haja conflito com o Tensorflow.
+
 ### 1️⃣ Clonar o repositório
 
 ```bash
@@ -95,7 +98,7 @@ npm install
 Instale o TensorFlow para Node:
 
 ```bash
-npm install @tensorflow/tfjs-node
+npm install @tensorflow/tfjs-node@4.22
 ```
 
 ---------------------------------------------------------------------------------------------------
