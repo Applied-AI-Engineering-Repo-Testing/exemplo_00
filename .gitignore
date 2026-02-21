@@ -1,0 +1,20 @@
+node_modules/
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Variáveis de ambiente (Segurança)
+.env
+.env.local
+.env.development.local
+
+# Build e arquivos gerados
+/dist
+/build
+*.out
