@@ -82,14 +82,14 @@ A label é gerada usando uma **função logística probabilística**.
 ### 1️⃣ Setup
 Utilize Node v22 para que não haja conflito com o Tensorflow.
 
-### 1️⃣ Clonar o repositório
+### 2️⃣ Clonar o repositório
 
 ```bash
 git clone <repo-url>
 cd <repo>
 ```
 
-### 2️⃣ Instalar dependências
+### 3️⃣ Instalar dependências
 
 ```bash
 npm install
